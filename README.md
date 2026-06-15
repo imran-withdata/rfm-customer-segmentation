@@ -18,6 +18,9 @@ This project segments customers based on their purchasing behavior using **RFM (
    * 🥉 **Silver:** At-risk or newly acquired low-spending customers.
 
 ---
+## Download this dataset
+https://www.kaggle.com/datasets/vijayuv/onlineretail?resource=download
+---
 
 ## 🛠️ Tech Stack
 * **Languages & Environments:** Python, Jupyter Notebook
